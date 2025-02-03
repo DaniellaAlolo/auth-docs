@@ -7,7 +7,8 @@ This project is an authentication server built with Node.js and Express that han
 ## Documentation
 
 To read the full documentation, visit:
-[auth-docs](https://daniellaalolo.github.io/auth-docs/)
+
+- [auth-docs](https://daniellaalolo.github.io/auth-docs/)
 
 ## Features
 
