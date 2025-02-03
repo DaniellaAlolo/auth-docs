@@ -4,6 +4,11 @@
 
 This project is an authentication server built with Node.js and Express that handles user login and registration. The server uses token-based authentication, ensuring secure login, and integrates monitoring with Prometheus and Grafana.
 
+## Documentation
+
+To read the full documentation, visit:
+[auth-docs](https://daniellaalolo.github.io/auth-docs/)
+
 ## Features
 
 - **User Authentication:** Token-based authentication using `accessToken`, `refreshToken`, and `csrfToken`.
